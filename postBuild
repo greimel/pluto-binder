@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -ex
+
+cd "${REPO_DIR}"
+
+julia sysimage/build_sysimage.jl

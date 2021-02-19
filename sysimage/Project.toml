@@ -1,0 +1,6 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+
+[compat]
+julia = "1.5"
