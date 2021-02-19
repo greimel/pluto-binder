@@ -1,5 +1,3 @@
-_(internal branch, proceed with caution)_
+_adapted from `https://github.com/mitmath/18S191/tree/Spring21-binder`_
 
-This branch contains our binder environment. When you click on the binder button inside a notebook on our website, it launches a binder session from this branch, which contains Pluto (at the correct version).
-
-https://mybinder.org/v2/gh/mitmath/18S191/Spring21-binder?urlpath=pluto
+https://mybinder.org/v2/gh/greimel/pluto-binder/main?urlpath=pluto
