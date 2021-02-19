@@ -30,7 +30,7 @@ begin
 	
 	Legend(fig[1,2], ax)
 	
-	fig
+	fig |> display
 end
 
 # ╔═╡ 033b6f1c-72fe-11eb-1cba-7da643d154c9
