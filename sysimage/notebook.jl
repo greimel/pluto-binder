@@ -5,7 +5,7 @@ using Markdown
 using InteractiveUtils
 
 # ╔═╡ c7faa3e6-72fd-11eb-1b1c-cff28ec840c7
-using Pkg; Pkg.activate(".")
+#using Pkg; Pkg.activate(@__DIR__())
 
 # ╔═╡ 2365b56c-72fd-11eb-2fb3-fb247a857b01
 using CairoMakie
